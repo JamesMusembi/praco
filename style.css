@@ -1,0 +1,7 @@
+.important {
+    color: gold;
+  }
+  .unimportant {
+    color: purple;
+    font-size: large;
+  }
